@@ -1,4 +1,7 @@
-"""Convienience wrapper functions for the Physics Summer School."""
+"""
+Convienience wrapper functions for the Physics Summer School.
+Copyright 2023, Alexander Richards, Imperial College London.
+"""
 import numpy as np
 import ipysheet as ips
 from ipysheet.sheet import Sheet
